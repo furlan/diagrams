@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T06:15:10.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="WpVqlPr6CLUIb67UGFN_" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-07T05:29:37.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="dMkQY3XGyeOTPXeXTe5L" version="20.5.2" type="github">
   <diagram id="I5p0cVo-zuJLJ8Hl6sqR" name="Page-1">
     <mxGraphModel dx="1520" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="425" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YiGfBQ7Tgmzh8utmoK7U-2" value="MongoDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="670" y="190" width="60" height="80" as="geometry" />
+          <mxGeometry x="660" y="180" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YiGfBQ7Tgmzh8utmoK7U-3" value="AssetMan&lt;br&gt;UI5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="225" y="90" width="120" height="60" as="geometry" />
@@ -42,6 +42,12 @@
         </mxCell>
         <mxCell id="YiGfBQ7Tgmzh8utmoK7U-13" value="Containters - Local Development&lt;br style=&quot;font-size: 17px;&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="30" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YiGfBQ7Tgmzh8utmoK7U-16" value="Network: localnet1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="290" y="220" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YiGfBQ7Tgmzh8utmoK7U-18" value="assetmandb&lt;br&gt;assetmanuser" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="710" y="120" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
